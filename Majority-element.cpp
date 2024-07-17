@@ -15,3 +15,4 @@ int Solution::majorityElement(const vector<int> &A) {
     }
     return ele;
 }
+// hani
