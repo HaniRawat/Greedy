@@ -14,5 +14,5 @@ int Solution::solve(vector<vector<int> > &A) {
             count++;
         }
     }
-    return count; g
+    return count; 
 }
